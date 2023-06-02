@@ -1,0 +1,4 @@
+finish concordancer tutorial
+=> https://ladal.edu.au/kwics.html
+
+upload github to repository
